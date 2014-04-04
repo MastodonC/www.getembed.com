@@ -30,7 +30,7 @@ p {
 
 /* Links */
 a {
-    color: #945B00;
+    color: saddlebrown;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;

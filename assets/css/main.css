@@ -1,9 +1,9 @@
 body {
   background-color: #f2f2f2;
     font-family: 'EB Garamond', serif;
-    font-weight: 300;
+    font-weight: 600;
     font-size: 16px;
-    color: #555;
+    color: #333;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -83,5 +83,9 @@ h1 {
 }
 
 .jumbotron {
-    background-color: rgba(238, 238, 238, 0.7);
+    background-color: rgba(238, 238, 238, 0.75);
+}
+
+h1 small {
+    color: #666;
 }
